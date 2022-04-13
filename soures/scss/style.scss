@@ -214,7 +214,7 @@ text-align: center;
 
 /*---PRODUCTION_MAIN style START---*/
 .production__main {
-background: url('/img/index/production__main.jpg') no-repeat center;
+background: url('../img/index/production__main.jpg') no-repeat center;
 background-size: cover;
 // max-width: 100%;
 height: 630px; //--------------------------------------&&&&
@@ -259,7 +259,7 @@ color: #FFFFFF;
 
 /*---ADVANTAGES_MAIN style START---*/
 .advantages{
-	background: url('/img/index/advantages.jpg') no-repeat center;
+	background: url('../img/index/advantages.jpg') no-repeat center;
 	background-size: cover;
 	// max-width: 100%;
 	height: 451px; //--------------------------------------&&&&
@@ -307,7 +307,7 @@ color: grey;
 
 /*---PRODUCTION SANDVICH_MAIN style START---*/
 .production__sendvich{
-	background: url('/img/index/production__sendvich.jpg') no-repeat center;
+	background: url('../img/index/production__sendvich.jpg') no-repeat center;
 	background-size: cover;
 }
 .production__sendvich-title{
@@ -429,7 +429,7 @@ visibility: hidden;
 
 /*---CALCULATION SANDVICH style START---*/
 .calculation__sandvich{
-	background: url('/img/index/calculation__sandvich.jpg') no-repeat center;
+	background: url('../img/index/calculation__sandvich.jpg') no-repeat center;
 	background-size: cover;
 // max-width: 100%;
 	height: 305px; //--------------------------------------&&&&
@@ -461,9 +461,9 @@ visibility: hidden;
 	text-decoration: none;
 	border-radius: 5px;
 	padding: 17px 60px 16px 81px;
-	background: #FFFFFF url('/img/svg/calculation__sandvich-ico.svg') no-repeat 55px center;
+	background: #FFFFFF url('../img/svg/calculation__sandvich-ico.svg') no-repeat 55px center;
 	&:hover{
-		background: #ffffffb7 url('/img/svg/calculation__sandvich-ico.svg') no-repeat 55px center;
+		background: #ffffffb7 url('../img/svg/calculation__sandvich-ico.svg') no-repeat 55px center;
 	}
 }
 /*---CALCULATION SANDVICH style END---*/
@@ -474,7 +474,7 @@ visibility: hidden;
 	height: 500px;
 	padding-top: 70px;
 	padding-bottom: 88px;
-	background: url('/img/index/production__metall.jpg');
+	background: url('../img/index/production__metall.jpg');
 }
 .production__metall-title{
 font: 700 normal 35px/18px 'Ubuntu';
@@ -527,7 +527,7 @@ padding-bottom: 8px;
 
 /*---ABOUTUS style START---*/
 .aboutus {
-	background: url('/img/index/aboutus.jpg') no-repeat center;
+	background: url('../img/index/aboutus.jpg') no-repeat center;
 	background-size: cover;
 	padding-bottom: 45px;
 	padding-top: 28px;
@@ -560,7 +560,7 @@ color: #FFFFFF;
 
 /*--- OUR PARTNERS START ---*/
 .partners{
-	background: url('/img/index/partners-bg.jpg') no-repeat center;
+	background: url('../img/index/partners-bg.jpg') no-repeat center;
 	background-size: cover;
 	// max-width: 100%;
 	height: 680px; //--------------------------------------&&&&
@@ -638,7 +638,7 @@ color: #333333;
 
 /*--- FEEDBACK START ---*/
 .feedback{
-	background: url('/img/index/feedback.jpg') no-repeat center;
+	background: url('../img/index/feedback.jpg') no-repeat center;
 	background-size: cover;
 	// max-width: 100%;
 	height: 415px; //--------------------------------------&&&&
