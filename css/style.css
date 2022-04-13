@@ -342,7 +342,7 @@ html {
 }
 
 .nav__building {
-  margin-right: 34px;
+  margin: auto 34px auto 0;
 }
 
 .nav__building-ico-pic {
@@ -351,10 +351,14 @@ html {
 }
 
 .nav__menu {
-  display: -ms-grid;
-  display: grid;
-  -ms-grid-columns: (1fr)[5];
-      grid-template-columns: repeat(5, 1fr);
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
   background: #4664A0;
 }
 

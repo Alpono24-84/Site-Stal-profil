@@ -183,7 +183,7 @@ flex-wrap: wrap;
 align-items: center;
 }
 .nav__building {
-margin-right: 34px;
+margin: auto 34px auto 0;
 }
 
 .nav__building-ico-pic {
@@ -191,8 +191,11 @@ width: 25px;
 height: 25px;
 }
 .nav__menu{
-display: grid;
-grid-template-columns: repeat(5, 1fr);
+display: flex;
+flex-wrap: wrap;
+justify-content: space-between;
+// display: grid;
+// grid-template-columns: repeat(5, 1fr);
 background: #4664A0;
 }
 .nav__link{
