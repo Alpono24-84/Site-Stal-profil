@@ -369,7 +369,7 @@ html {
 /*---NAV style end---*/
 /*---PRODUCTION_MAIN style START---*/
 .production__main {
-  background: url("../img/index/production__main.jpg") no-repeat center;
+  background: url(../img/index/production__main.jpg) no-repeat center;
   background-size: cover;
   height: 630px;
   position: relative;
@@ -418,7 +418,7 @@ html {
 /*---PRODUCTION_MAIN style END---*/
 /*---ADVANTAGES_MAIN style START---*/
 .advantages {
-  background: url("../img/index/advantages.jpg") no-repeat center;
+  background: url(../img/index/advantages.jpg) no-repeat center;
   background-size: cover;
   height: 451px;
   padding-top: 70px;
@@ -476,7 +476,7 @@ html {
 /*---ADVANTAGES_MAIN style END---*/
 /*---PRODUCTION SANDVICH_MAIN style START---*/
 .production__sendvich {
-  background: url("../img/index/production__sendvich.jpg") no-repeat center;
+  background: url(../img/index/production__sendvich.jpg) no-repeat center;
   background-size: cover;
 }
 
@@ -619,7 +619,7 @@ html {
 /*---PRODUCTION SANDVICH_MAIN style END---*/
 /*---CALCULATION SANDVICH style START---*/
 .calculation__sandvich {
-  background: url("../img/index/calculation__sandvich.jpg") no-repeat center;
+  background: url(../img/index/calculation__sandvich.jpg) no-repeat center;
   background-size: cover;
   height: 305px;
   position: relative;
@@ -660,11 +660,11 @@ html {
   text-decoration: none;
   border-radius: 5px;
   padding: 17px 60px 16px 81px;
-  background: #FFFFFF url("../img/svg/calculation__sandvich-ico.svg") no-repeat 55px center;
+  background: #FFFFFF url(../img/svg/calculation__sandvich-ico.svg) no-repeat 55px center;
 }
 
 .calculation__sandvich-right-calc:hover {
-  background: #ffffffb7 url("../img/svg/calculation__sandvich-ico.svg") no-repeat 55px center;
+  background: #ffffffb7 url(../img/svg/calculation__sandvich-ico.svg) no-repeat 55px center;
 }
 
 /*---CALCULATION SANDVICH style END---*/
@@ -673,7 +673,7 @@ html {
   height: 500px;
   padding-top: 70px;
   padding-bottom: 88px;
-  background: url("../img/index/production__metall.jpg");
+  background: url(../img/index/production__metall.jpg);
 }
 
 .production__metall-title {
@@ -738,7 +738,7 @@ html {
 /*---PRODUCTION METALL style END---*/
 /*---ABOUTUS style START---*/
 .aboutus {
-  background: url("../img/index/aboutus.jpg") no-repeat center;
+  background: url(../img/index/aboutus.jpg) no-repeat center;
   background-size: cover;
   padding-bottom: 45px;
   padding-top: 28px;
@@ -774,7 +774,7 @@ html {
 /*---ABOUTUS style START---*/
 /*--- OUR PARTNERS START ---*/
 .partners {
-  background: url("../img/index/partners-bg.jpg") no-repeat center;
+  background: url(../img/index/partners-bg.jpg) no-repeat center;
   background-size: cover;
   height: 680px;
   padding-top: 55px;
@@ -840,7 +840,7 @@ html {
 /*--- OUR PARTNERS END ---*/
 /*--- FEEDBACK START ---*/
 .feedback {
-  background: url("../img/index/feedback.jpg") no-repeat center;
+  background: url(../img/index/feedback.jpg) no-repeat center;
   background-size: cover;
   height: 415px;
   padding-top: 55px;
